@@ -1,4 +1,4 @@
-module github.com/gorilla/handlers
+module github.com/stockholmr/handlers
 
 go 1.14
 
